@@ -1,0 +1,10 @@
+C:\Users\bekoo\Desktop\DOSYA\C# Uygulama\Banka Sıra Al - Çagıran Vezne Uygulaması\Banka Sıra Al - Çagıran Vezne Uygulaması\bin\Debug\Banka Sıra Al - Çagıran Vezne Uygulaması.exe.config
+C:\Users\bekoo\Desktop\DOSYA\C# Uygulama\Banka Sıra Al - Çagıran Vezne Uygulaması\Banka Sıra Al - Çagıran Vezne Uygulaması\bin\Debug\Banka Sıra Al - Çagıran Vezne Uygulaması.exe
+C:\Users\bekoo\Desktop\DOSYA\C# Uygulama\Banka Sıra Al - Çagıran Vezne Uygulaması\Banka Sıra Al - Çagıran Vezne Uygulaması\bin\Debug\Banka Sıra Al - Çagıran Vezne Uygulaması.pdb
+C:\Users\bekoo\Desktop\DOSYA\C# Uygulama\Banka Sıra Al - Çagıran Vezne Uygulaması\Banka Sıra Al - Çagıran Vezne Uygulaması\obj\Debug\Banka Sıra Al - Çagıran Vezne Uygulaması.csproj.AssemblyReference.cache
+C:\Users\bekoo\Desktop\DOSYA\C# Uygulama\Banka Sıra Al - Çagıran Vezne Uygulaması\Banka Sıra Al - Çagıran Vezne Uygulaması\obj\Debug\Banka_Sıra_Al___Çagıran_Vezne_Uygulaması.Form1.resources
+C:\Users\bekoo\Desktop\DOSYA\C# Uygulama\Banka Sıra Al - Çagıran Vezne Uygulaması\Banka Sıra Al - Çagıran Vezne Uygulaması\obj\Debug\Banka_Sıra_Al___Çagıran_Vezne_Uygulaması.Properties.Resources.resources
+C:\Users\bekoo\Desktop\DOSYA\C# Uygulama\Banka Sıra Al - Çagıran Vezne Uygulaması\Banka Sıra Al - Çagıran Vezne Uygulaması\obj\Debug\Banka Sıra Al - Çagıran Vezne Uygulaması.csproj.GenerateResource.cache
+C:\Users\bekoo\Desktop\DOSYA\C# Uygulama\Banka Sıra Al - Çagıran Vezne Uygulaması\Banka Sıra Al - Çagıran Vezne Uygulaması\obj\Debug\Banka Sıra Al - Çagıran Vezne Uygulaması.csproj.CoreCompileInputs.cache
+C:\Users\bekoo\Desktop\DOSYA\C# Uygulama\Banka Sıra Al - Çagıran Vezne Uygulaması\Banka Sıra Al - Çagıran Vezne Uygulaması\obj\Debug\Banka Sıra Al - Çagıran Vezne Uygulaması.exe
+C:\Users\bekoo\Desktop\DOSYA\C# Uygulama\Banka Sıra Al - Çagıran Vezne Uygulaması\Banka Sıra Al - Çagıran Vezne Uygulaması\obj\Debug\Banka Sıra Al - Çagıran Vezne Uygulaması.pdb
